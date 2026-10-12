@@ -1,5 +1,7 @@
 # NANDゲートから全加算器を作る｜Pythonで論理回路を組み立てる
 
+[![run](https://github.com/jumpei1228/semiconductor-nand-to-adder-python/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/semiconductor-nand-to-adder-python/actions/workflows/run.yml)
+
 半導体の中で計算が生まれるしくみを、Pythonで手を動かして理解。たった1種類のNANDゲートから、NOT・AND・XORを組み、最後に足し算をする全加算器までボトムアップで構築します。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
